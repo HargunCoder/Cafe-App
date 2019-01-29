@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Coffee Order</string>
+    <string name="welcome">Welcome Please Order Your Coffee</string>
+    <string name="usernamehint">Please Enter Your Name</string>
+    <string name="userNameEditTexthint">Your good name here</string>
+    <string name="userEmail">Email id:</string>
+    <string name="userEmailIdHint">Enter your email id here</string>
+    <string name="toppingsheader">Toppings</string>
+    <string name="whipped_creamheader">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="order">Order</string>
+    <string name="plusOrder">+</string>
+    <string name="decreOrder">-</string>
+    <string name="priceHeader">Price</string>
+    <string name="order_summaryHeader">Order Summary</string>
+    <string name="checkoutHeader">Checkout</string>
+</resources>
